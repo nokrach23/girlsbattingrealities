@@ -1,0 +1,10 @@
+node_modules/
+dist/
+
+# Local visual-test captures and temporary review files
+responsive-*.png
+image-review.jpg
+review-*.jpg
+
+# Optimized WebP files are the deployed image assets; retain source JPEGs locally.
+public/images/*.jpg
